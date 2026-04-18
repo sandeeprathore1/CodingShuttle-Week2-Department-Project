@@ -1,5 +1,6 @@
 com\springboot\week2\advice\GlobalExceptionHandler.class
 com\springboot\week2\controller\DepartmentController.class
+com\springboot\week2\annotations\password\Password.class
 com\springboot\week2\service\DepartmentService.class
 com\springboot\week2\annotations\primeNumber\PrimeNumberValidator.class
 com\springboot\week2\serviceImpl\DepartmentServiceImpl.class
@@ -8,6 +9,7 @@ com\springboot\week2\entity\Department.class
 com\springboot\week2\dto\ErrorResponseDto.class
 com\springboot\week2\dto\DepartmentDto.class
 com\springboot\week2\config\AppConfig.class
+com\springboot\week2\annotations\password\PasswordValidator.class
 com\springboot\week2\exception\ResourceNotFoundException.class
 com\springboot\week2\repository\DepartmentRepository.class
 com\springboot\week2\annotations\primeNumber\primeNumber.class
